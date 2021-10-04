@@ -1,0 +1,21 @@
+#diss{
+    display: flex;
+    margin-bottom: 29px;
+    
+    /* width: min-content; */
+}
+.spp
+{
+    margin: 5px;
+}
+#middle{
+   
+    margin-left: 400px;
+}
+#dis{
+    display: flex;
+    margin-bottom: 30px;
+}
+#mid{
+    margin-left: 400px;
+}
